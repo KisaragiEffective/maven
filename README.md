@@ -10,7 +10,7 @@ You can use this repository by those methods:
 ```groovy
 // build.gradle
 repositories {
-  repository(url = URI("https://hub.spigotmc.org/nexus/content/repositories/snapshots")
+  repository(url = URI("https://github.com/KisaragiEffective/maven/")
 }
 ```
 
