@@ -23,3 +23,5 @@ repositories {
   }
 }
 ```
+
+**NOTE ABOUT LICENCE**: LICENSE is different on *each* artifact!
